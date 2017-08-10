@@ -1,1 +1,4 @@
-# salmonella_snp_typing
+## Description
+
+Salmonella typing based on SNP at 60 sites.
+
