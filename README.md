@@ -1,9 +1,10 @@
 ## Description
 
-Salmonella typing based on SNP at 60 sites. Clades are set by comparing the 60 SNP sequence to a reference database.
+In silico Salmonella typing based on SNP at 60 positions. Clades are set by comparing the 60 SNP sequence to a reference database.
 
 ## Publication
 
+This tool is based on the following paper:
 https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-713
 
 ## Dependencies
